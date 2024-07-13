@@ -1,4 +1,5 @@
-![DevOps Tools][[(https://githubprofile.png)]](https://github.com/vinaykumar9301/vinaykumar9301/blob/main/githubprofile.png?raw=true)
+![DevOps Tools](https://github.com/vinaykumar9301/vinaykumar9301/blob/main/githubprofile.png?raw=true)
+
 
 # Hi there, I'm Vinay Kumar 👋
 
