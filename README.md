@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![DevOps Tools][(https://githubprofile.png)](https://github.com/vinaykumar9301/vinaykumar9301/blob/main/githubprofile.png)
+![DevOps Tools][(https://githubprofile.png)]
 
 # Hi there, I'm Vinay Kumar 👋
 
