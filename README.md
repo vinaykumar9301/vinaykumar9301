@@ -9,11 +9,13 @@ I thrive on streamlining software delivery pipelines through automation and effi
 ## 🌐 MERN Stack Proficiency
 As a MERN Stack developer, I harness the power of **MongoDB, Express.js, React, and Node.js** to create robust and user-friendly web applications. My expertise in building responsive interfaces drives engaging user experiences and enhances customer satisfaction.
 
-### 🔧 Tools & Technologies
-- **DevOps:** Docker, Kubernetes, Jenkins, Git, CI/CD, Ansible, Terraform, AWS
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, SQL
+## 🛠️ Technical Skills and Interests
+- **Languages:** C, C++, Python, JavaScript
+- **DevOps Tools:** Linux, Git, GitHub, Docker, Jenkins, Kubernetes, Terraform, Ansible, Grafana
+- **Web Development:** MongoDB, Express.js, React.js, Node.js
+- **Database:** MySQL, MongoDB
+- **Cloud Platforms:** Amazon Web Services, Google Cloud Platform
+- **AWS Services:** EC2, Lambda Function, IAM, CloudWatch, CloudFormation, S3, SNS, VPC
 
 ### 📚 Education
 **Indian Institute of Information Technology, Ranchi**  
