@@ -16,4 +16,16 @@ As a MERN Stack developer, I harness the power of **MongoDB, Express.js, React, 
 - **Database:** MongoDB, SQL
 
 ### 📚 Education
-**Indian Institute of Information Technology, Ranchi**
+**Indian Institute of Information Technology, Ranchi**  
+_Bachelor of Technology in Computer Science and Engineering _  
+_Nov 2021 – Jul 2025_
+
+## 🎓 Leadership & Activities
+### Vice Head at Alfaaz (College Literary Club)
+_Sep 2023 – Present_
+- Overseeing club activities and spearheading event planning and execution.
+- Coordinating annual events such as Lamhe and Open Mic.
+
+### GitHub Campus Expert at Indian Institute of Information Technology Ranchi
+_Feb 2024 – Present_
+- Organizing GitHub events and raising awareness about GitHub tools and technologies.
