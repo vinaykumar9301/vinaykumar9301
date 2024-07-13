@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**vinaykumar9301/vinaykumar9301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![DevOps Tools](https://path/to/your/tools/image.png)
 
-Here are some ideas to get you started:
+# Hi there, I'm Vinay Kumar 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ DevOps Excellence
+I thrive on streamlining software delivery pipelines through automation and efficient workflows. Proficient in a range of DevOps tools and methodologies, I ensure seamless integration between development and operations, resulting in faster, reliable, and scalable software deployments.
+
+## 🌐 MERN Stack Proficiency
+As a MERN Stack developer, I harness the power of **MongoDB, Express.js, React, and Node.js** to create robust and user-friendly web applications. My expertise in building responsive interfaces drives engaging user experiences and enhances customer satisfaction.
+
+### 🔧 Tools & Technologies
+- **DevOps:** Docker, Kubernetes, Jenkins, Git, CI/CD, Ansible, Terraform, AWS
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, SQL
+
+### 📚 Education
+**Indian Institute of Information Technology, Ranchi**
