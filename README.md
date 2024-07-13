@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![DevOps Tools](https://path/to/your/tools/image.p![Black and Red Gradient Professional LinkedIn Banner](https://github.com/user-attachments/assets/9d45d3a8-e983-45ae-9ef6-44c3433443fa)
-ng)
+![DevOps Tools](https://githubprofile.png)
 
 # Hi there, I'm Vinay Kumar 👋
 
